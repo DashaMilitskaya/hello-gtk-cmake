@@ -1,0 +1,7 @@
+/home/user/hello-gtk-cmake/build/CMakeFiles/hello-gtk.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/edit_cache.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/list_install_components.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/install.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/install/local.dir
+/home/user/hello-gtk-cmake/build/CMakeFiles/install/strip.dir
